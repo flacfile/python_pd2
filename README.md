@@ -2,7 +2,7 @@
 
 - Python 3.x
 - matplotlib
-- tkinter (parasti nāk līdzi ar Python)
+- tkinter
 
 ## Funkcijas
 
